@@ -43,7 +43,7 @@ Call Regen Target
 
 
 
-**Metric                                      Definition                                                                        Formula**
+**Metric|Definition|Formula**
 
 
 Calls Handled                              	Inbound call taken by an agent	                                                  Sum of Calls Handled
