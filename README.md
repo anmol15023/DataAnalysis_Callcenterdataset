@@ -2,18 +2,44 @@ Create a dashboard using given data showing the following matrices and highlight
 
 
 Calls Handled
+
+
 Avg Handle Time
+
+
 AHT Target
+
+
 Transfer %
+
+
 Transfer Target
+
+
 Offer %
+
+
 Accept %
+
+
 Applied %
+
+
 Breakage
+
+
 Applied Per Call
+
+
 Applied Per Call Target
+
+
 Callback within 2 Days
+
+
 Call Regen Target
+
+
 
 
 
