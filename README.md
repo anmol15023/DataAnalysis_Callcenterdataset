@@ -1,4 +1,7 @@
-1.	CrCreate a dashboard using given data showing the following matrices and highlight values with red and green based on associated target achievement. If the target achieved Green and if not red. See the Data definition below.      Calls Handled
+Create a dashboard using given data showing the following matrices and highlight values with red and green based on associated target achievement. If the target achieved Green and if not red. See the Data definition below.     
+
+
+Calls Handled
 Avg Handle Time
 AHT Target
 Transfer %
@@ -13,8 +16,11 @@ Callback within 2 Days
 Call Regen Target
 
 
+
 **Metric	Definition	Formula
 **
+
+
 Calls Handled	Inbound call taken by an agent	Sum of Calls Handled
 Avg Handle Time (or AHT)	Average time to complete a call	Handle Time / Calls Handled
 Transfer %	Percent of calls that resulted in a transfer out	Transfers / Calls Handled
